@@ -1,0 +1,24 @@
+
+#include <iostream>
+
+#include "basics.hpp"
+
+
+
+// Simple demonstration for Cpp_Basic chapter 01
+
+void run_basics() {
+
+    std::cout << "[ch01] Hello from Cpp_Basic! (C++20)\n";
+
+    int num = 20;
+    std::cout << "Hello World!" << std::endl;
+    std::cout << "Hello" << "World" << std::endl;
+    std::cout << num << ' ' << "A";
+    std::cout << ' ' << 3.14 << std::endl;
+
+
+    // Add small demos here: auto, range-based for, etc.
+
+}
+
