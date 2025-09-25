@@ -1,9 +1,17 @@
 
 #pragma once
 
+void demo_variables();
 
+void demo_operators();
 
-// Runs the "01_basics" chapter demo.
+void demo_strings();
 
-void run_basics();
+void demo_arrays();
+
+void demo_functions();
+
+void demo_pointers_memory();
+
+void demo_structs_enums();
 

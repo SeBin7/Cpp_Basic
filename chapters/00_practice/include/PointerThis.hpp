@@ -1,0 +1,4 @@
+
+class sosimple {};
+
+void pointerthis();
