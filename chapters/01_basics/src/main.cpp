@@ -1,24 +1,15 @@
-
 #include "basics.hpp"
-
-
 
 int main() {
 
-    demo_variables();
-
-    demo_operators();
-
-    demo_strings();
-
-    demo_arrays();
-
-    demo_functions();
-
-    demo_pointers_memory();
-
-    demo_structs_enums();
-
+    basics::run_arrays_examples();
+    basics::run_variables_examples();
+    basics::run_operators_examples();
+    basics::run_strings_examples();
+    basics::run_strings_examples();
+    basics::run_functions_examples();
+    basics::run_pointers_examples();
+    basics::run_structs_enums_examples();
     return 0;
 
 }
