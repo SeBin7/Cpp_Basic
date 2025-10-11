@@ -22,3 +22,4 @@ add_subdirectory(chapters/00_practice)
 
 add_subdirectory(chapters/01_basics)
 
+add_subdirectory(chapters/02_oop)
